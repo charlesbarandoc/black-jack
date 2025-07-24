@@ -17,17 +17,17 @@ button {
     padding: 5px 0 5px 0;
     font-weight: bold;
     margin-bottom: 4px;
-    border: none;
     background: goldenrod;
     cursor: pointer;
     border-radius: 2px;
-    transition: transform 0.2s;
+    position: fi;
+    /*transition: transform 0.2s;*/
 }
 
-button:hover {
+ /*button:after {
     background-color: rgb(180, 137, 27);
     transform: scale(1.02);
-}
+}*/
 
 #message-el {
     font-style: italic;
